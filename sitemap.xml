@@ -2,902 +2,1622 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>1</priority>
 </url>
 <url>
 <loc>/overview/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.9</priority>
 </url>
 <url>
 <loc>/help-and-about-tech-radar/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.9</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.8</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.8</priority>
 </url>
 <url>
 <loc>/platforms-and-operations/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.8</priority>
 </url>
 <url>
 <loc>/tools/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.8</priority>
 </url>
 <url>
 <loc>/tools/adobe-creative-cloud/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/adr/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/assisted-ai/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/akeneo/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/akka/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/akka-streams/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/alpakka/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/angular/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/ant/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/anypoint-platform/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/apisix/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/apache-camel/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/api-first-design-approach/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/apicurio/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/apollo-client/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/apm/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/argocd/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/asciidoc/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/axure/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/babel/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/backstage/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/blameless-post-mortems/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/bower/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/csharp/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/client-side-error-logging/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/cockpit/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/colima/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/complexity-management/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/concourse-ci/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/consul/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/container-based-builds/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/conventionalcommits/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/crc/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/css-in-js/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/cypress/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/dagger/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/ddev/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/decoupling-infrastructure-via-messaging/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/deno/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/dependency-update-scan/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/design-system/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/devops-practices/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/dgs/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/diagrams-as-code/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/dora-metrics/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/drupal/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/event-storming/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/evil-user-stories/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/explicit-test-strategy/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/falco/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/figma/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/flamingo/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/flow/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/flowtype/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/fluentd/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/flutter/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/flux/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/galen/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/gatling/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/gitflow/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/gitlab/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/gitlab-ci/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/go-lang/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/graalnaative/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/gradle/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/graphql/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/green-it/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/groovy/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/grpc/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/grunt/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/gulp/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/hal-hateoas/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/hotchocolate/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/hystrix/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/inner-source/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/invision/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/java/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/jest/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/job-dsl/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/k6/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/kafka/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/keycloak/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/kotlin/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/kubernetes-operators/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/lighthouse-ci/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/micro-frontends/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/microservices/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/mlops/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/mob-programming/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/monorepo/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/nats/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/next-js/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/nocode-lowcode/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/node-js/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/nosql/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/npm/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/nx/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/open-api/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/open-digital-architecture/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/open-policy-agent/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/oro-platform/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/pact/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/page-composing/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/pair-working/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/phan/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/php7-over-php5/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/pin-external-dependencies/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/pipeline-as-code/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/plant-uml/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/play-framework/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/playwright/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/pnpm/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/policy-as-code/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/ports-and-adapters/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/postcss/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/postgres/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/postman/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/protobuf/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/rabbitmq/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/raml/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/react-native/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/react-server-components/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/react/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/reactive-programming/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/redux/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/remix/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/renovate/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/resilience-thinking/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/rest-assured/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/rust/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/rxjava/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/rxjs/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/sass/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/scala3/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/scala-lang/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/semver2/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/semanticore/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/serverless/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/settings-injection/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/shared-responsibility/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/sitespeed/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/sketch/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/sonarqube/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/specflow/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/spock_geb/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/spring-boot/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/spring-rest-docs/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/state-management-pattern/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/stitches/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/storybook/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/strapi/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/strategic-domain-driven-design/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/stride-threat-modeling/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/styleguide-driven-development/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/svelte/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/symfony-components/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/tailwindcss/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/team-start-page/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/temporal-modeling/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/trivy/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/turborepo/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/typescript/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/typo3-as-a-framework/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/unleash/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/vistecture/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/vite/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/vue/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/languages-and-frameworks/vuex/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/webpack/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/wiremock/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/xmlunit/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/tools/yarn/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 <url>
 <loc>/methods-and-patterns/zero-trust/</loc>
+<<<<<<< HEAD
 <lastmod>2024-04-03T19:15:56.101Z</lastmod>
+=======
+<lastmod>2024-04-03T16:51:04.276Z</lastmod>
+>>>>>>> 37a86c988738beca3cf9da4ce3f17673fe89c6c3
 <priority>0.5</priority>
 </url>
 </urlset>
