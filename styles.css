@@ -1,0 +1,15 @@
+/*
+ * Define your custom CSS Styles here.
+ */
+
+body {
+    background: #272935 !important;
+}
+
+.search__field {
+    background: #173340 !important;
+}
+
+.logo-link__text {
+    left: 200px !important;
+}
