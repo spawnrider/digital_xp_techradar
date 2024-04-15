@@ -2,7 +2,7 @@
     "quadrants": {
       "languages-and-frameworks": "Languages & Frameworks",
       "methods-and-patterns": "Methods & Patterns",
-      "platforms-and-aoe-services": "Platforms & Operations",
+      "platforms-and-operations": "Platforms & Operations",
       "tools": "Tools"
     },
     "rings": [
@@ -26,7 +26,7 @@
         "position": 2,
         "description": "Here we put information on methods and patterns concerning development, continuous x, testing, organization, architecture, etc."
       },
-      "platforms-and-aoe-services": {
+      "platforms-and-operations": {
         "colour": "#ff5770",
         "txtColour": "#444444",
         "position": 3,
